@@ -1,0 +1,8 @@
+{
+  "name": "GitHubProfileSearcher",
+  "app_id": "2ae7d9be",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
